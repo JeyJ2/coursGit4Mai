@@ -4,7 +4,9 @@
 
 ***GRAS ET ITALIQUE***
 
-<u>souligné</u>
+__sousligné__
+
+<u>sousligné</u>
 #sousligné
 
 Du code
