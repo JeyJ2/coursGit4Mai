@@ -8,7 +8,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header></header>
+    <header>
+        <nav>
+            <li><a href=""></a>Accueil</li>
+            <li><a href=""></a>intro</li>
+            <li><a href=""></a>prosuits</li>
+            <li><a href=""></a>contact</li>
+        </nav>
+    </header>
     <main></main>
     <footer></footer>
 
