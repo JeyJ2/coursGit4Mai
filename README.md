@@ -4,9 +4,9 @@
 
 ***GRAS ET ITALIQUE***
 
-__sousligné__
+__sousligné__ pour mettre en gras __
 
-<u>sousligné</u>
+<ins>sousligné</ins>
 #sousligné
 
 Du code
