@@ -12,6 +12,8 @@
     <main></main>
     <footer></footer>
 
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

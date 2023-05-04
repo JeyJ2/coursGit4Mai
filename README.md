@@ -1,3 +1,12 @@
+Pour utiliser le projet taper la commande
+```
+npm install 
+```
+
+
+
+
+
 **TITRE EN GRAS**
 
 *italique*
