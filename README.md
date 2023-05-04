@@ -4,6 +4,9 @@
 
 ***GRAS ET ITALIQUE***
 
+<u>souligné</u>
+#sousligné
+
 Du code
 
 ```html
